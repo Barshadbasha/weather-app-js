@@ -28,3 +28,9 @@ It uses the **OpenWeather API** to fetch real-time weather information such as:
 - CSS3
 - JavaScript (Vanilla JS)
 - OpenWeather API
+
+## Setup
+1. Clone the repository
+2. Create a file `config.js` in the root folder:
+   ```js
+   const API_KEY = "YOUR_API_KEY";
